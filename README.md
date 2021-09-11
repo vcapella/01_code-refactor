@@ -3,7 +3,7 @@
 ### LIVE PROJECT 
 https://vcapella.github.io/01_code-refactor/
 
-## CODES CHANGES ON INDEX.HTML FILE
+## CODE CHANGES ON INDEX.HTML FILE
 
 - Changed title "website" to "Horiseon".
 - Changed "div" to "header".
@@ -19,7 +19,7 @@ https://vcapella.github.io/01_code-refactor/
 
 
 
-## CODES CHANGES ON STYLE.CSS
+## CODE CHANGES ON STYLE.CSS
 
 - Changed "benefit classes lead, brand, cost". Now It is only "benefit-box".
 - Changed margin-box to 50px, so the aside content has the same height as the main.
